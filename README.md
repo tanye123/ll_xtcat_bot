@@ -1,5 +1,14 @@
 
-  ---<img width="951" height="613" alt="屏幕截图 2026-01-27 222554" src="https://github.com/user-attachments/assets/a10b32c0-6460-4804-ba39-977152021adb" />
+  【使用AI快速编写自己的QQ机器人-视频教程】
+视频链接：https://b23.tv/cYYXuHk
+---
+![Uploading 屏幕截图 2026-01-27 222537.png…]()
+
+---
+![Uploading 屏幕截图 2026-01-27 222545.png…]()
+
+---
+  <img width="951" height="613" alt="屏幕截图 2026-01-27 222554" src="https://github.com/user-attachments/assets/a10b32c0-6460-4804-ba39-977152021adb" />
 
   LL_XTCAT Bot v0.0.2
 
