@@ -2,10 +2,12 @@
   【使用AI快速编写自己的QQ机器人-视频教程】
 视频链接：https://b23.tv/cYYXuHk
 ---
-![Uploading 屏幕截图 2026-01-27 222537.png…]()
+<img width="954" height="604" alt="屏幕截图 2026-01-27 222537" src="https://github.com/user-attachments/assets/7d902c3f-8e80-4c5a-b918-eea4d834ea87" />
+
 
 ---
-![Uploading 屏幕截图 2026-01-27 222545.png…]()
+<img width="954" height="622" alt="屏幕截图 2026-01-27 222545" src="https://github.com/user-attachments/assets/c1ee1cdc-ccef-4f11-aba4-4cb50a5fbea8" />
+
 
 ---
   <img width="951" height="613" alt="屏幕截图 2026-01-27 222554" src="https://github.com/user-attachments/assets/a10b32c0-6460-4804-ba39-977152021adb" />
