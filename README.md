@@ -1,6 +1,6 @@
- 根据项目信息，这是一段 GitHub Release 描述：
 
-  ---
+  ---<img width="951" height="613" alt="屏幕截图 2026-01-27 222554" src="https://github.com/user-attachments/assets/a10b32c0-6460-4804-ba39-977152021adb" />
+
   LL_XTCAT Bot v0.0.2
 
   基于 LLOneBot 的 Python QQ 机器人插件框架
