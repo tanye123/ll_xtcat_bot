@@ -1,3 +1,8 @@
+运行主体：
+### 📦 LuckyLilliaBot
+- 🔗 仓库：(https://github.com/LLOneBot/LuckyLilliaBot)
+- 🎯 用途：提供接口
+
 
   【使用AI快速编写自己的QQ机器人-视频教程】
 视频链接：https://b23.tv/cYYXuHk
