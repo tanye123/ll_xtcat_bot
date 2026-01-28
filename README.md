@@ -2,9 +2,9 @@
 ### 📦 LuckyLilliaBot
 - 🔗 仓库：(https://github.com/LLOneBot/LuckyLilliaBot)
 - 🎯 用途：提供接口
-
+---
 qq群：228703732
-
+---
 
   【使用AI快速编写自己的QQ机器人-视频教程】
 视频链接：https://b23.tv/cYYXuHk
@@ -19,7 +19,6 @@ qq群：228703732
 ---
   <img width="951" height="613" alt="屏幕截图 2026-01-27 222554" src="https://github.com/user-attachments/assets/a10b32c0-6460-4804-ba39-977152021adb" />
 
-  LL_XTCAT Bot v0.0.2
 
   基于 LLOneBot 的 Python QQ 机器人插件框架
 
@@ -38,3 +37,5 @@ qq群：228703732
   2. 运行 LL_XTCAT_Bot.exe
   3. 在设置页面配置连接参数
   4. 在插件管理页面启用/禁用插件
+
+
